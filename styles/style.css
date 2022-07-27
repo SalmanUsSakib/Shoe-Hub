@@ -1,0 +1,35 @@
+/* .banner {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+} */
+
+.heading {
+  color: #fa804c;
+}
+.btn {
+  width: 140px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #3d4ff3;
+  color: white;
+}
+
+h3 {
+  color: #fa804c;
+}
+
+/* @media only screen and (max-width: 688px) {
+  .banner {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .banner img {
+    width: 100%;
+    height: fit-content;
+  }
+  .banner .banner-info {
+    width: 100%;
+    height: fit-content;
+  }
+} */
